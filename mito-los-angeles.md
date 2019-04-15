@@ -8,4 +8,6 @@
 
 ## Attractions for Locals
 
+- Griffith Observator
+
 :smile: **This is bold text**
